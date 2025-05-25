@@ -12,3 +12,7 @@ Esto es una practica de como crear una pagina tipo Landing Page con un carrusel 
 ## Demo
 
 [Demo](https://htmlpreview.github.io/?https://github.com/lucho-39/landing-page/blob/main/index.html)
+
+## Screenshots
+
+![App Screenshot](/images/Captura.PNG)
